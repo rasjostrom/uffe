@@ -7,7 +7,7 @@ import keywords
 import response
 import utils
 
-TOKEN = 'xoxb-43181503156-2iNU1mooWkkgLOCe4ejQZFTM'
+TOKEN = ''
 bot = SlackClient(TOKEN)
 BOT_ID = 'U195BET4L'
 
